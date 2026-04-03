@@ -1,48 +1,65 @@
-👋 Hello, I'm Yousuf
+## 👋 Hello, I'm Yousuf  
 
-💻 .NET Developer | C# | Web API | React
+💻 .NET Developer | C# | Web API | React  
 
-Welcome to my GitHub profile!
-I focus on building applications using the .NET ecosystem with clean structure and practical functionality.
-I enjoy solving real-world problems and continuously improving my development skills 🚀
+Welcome to my GitHub profile!  
+I focus on building applications using the .NET ecosystem with clean structure and practical functionality.  
+I enjoy solving real-world problems and continuously improving my development skills 🚀  
 
-🚀 About Me
-🎓 System Development student focused on C# and .NET
-📍 Based in Sweden
-💡 Interested in building scalable and maintainable systems
-🔧 Strong problem-solving mindset from previous professional experience
-🎯 Goal: Become a highly skilled developer working with modern technologies
+---
 
+## 🚀 About Me  
 
-🌱 Currently Learning
-💻 C# and .NET (ASP.NET Core, Web API)
-🗄️ Entity Framework Core & database design
-🧪 Testing (basics of unit testing)
-☁️ Exploring Docker & cloud concepts
+- 🎓 System Development student focused on C# and .NET  
+- 📍 Based in Sweden  
+- 💡 Interested in building scalable and maintainable systems  
+- 🔧 Strong problem-solving mindset from previous experience  
+- 🎯 Goal: Become a highly skilled developer  
 
+---
 
-🛠️ Technologies & Tools
-💡 Backend
-C#, .NET 8, ASP.NET Core
-🗄️ Database
-SQL Server, EF Core
-🎨 Frontend
-React, HTML, CSS, Tailwind
-⚙️ Tools
-Git, GitHub, Postman, Docker
+## 🌱 Currently Learning  
 
-🎯 Focus
-✔️ Clean and maintainable code
-✔️ Clear architecture (Services, Models, Data)
-✔️ Real-world projects over theory
-✔️ Continuous improvement
+- 💻 C# and .NET (ASP.NET Core, Web API)  
+- 🗄️ Entity Framework Core & database design  
+- 🧪 Testing (basics of unit testing)  
+- ☁️ Docker & cloud concepts  
 
+---
 
-📫 Contact
-🔗 GitHub: https://github.com/youabd123
-🔗 LinkedIn: https://www.linkedin.com/in/yousuf-hashim-062194388/
-🔗 E-mail: Yousuf.abdulrahman123@gmail.com
+## 🛠️ Technologies & Tools  
 
-⚡ Extra
+### 💡 Backend  
+- C#, .NET 8, ASP.NET Core  
+
+### 🗄️ Database  
+- SQL Server, EF Core  
+
+### 🎨 Frontend  
+- React, HTML, CSS, Tailwind  
+
+### ⚙️ Tools  
+- Git, GitHub, Postman, Docker  
+
+---
+
+## 🎯 Focus  
+
+- ✔️ Clean and maintainable code  
+- ✔️ Clear architecture (Services, Models, Data)  
+- ✔️ Real-world projects over theory  
+- ✔️ Continuous improvement  
+
+---
+
+## 📫 Contact  
+
+- 🔗 GitHub: https://github.com/youabd123  
+- 🔗 LinkedIn: https://www.linkedin.com/in/yousuf-hashim-062194388/  
+- 📧 Email: yousuf.abdulrahman123@gmail.com  
+
+---
+
+## ⚡ Extra  
 
 I build projects to understand how systems work in practice — not just in theory.
