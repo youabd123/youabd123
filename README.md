@@ -1,52 +1,48 @@
-## Hi there 👋
-👋 Hi, I’m Yousuf
+👋 Hello, I'm Yousuf
 
 💻 .NET Developer | C# | Web API | React
 
-I build applications in the .NET ecosystem with a focus on clean structure, maintainable code, and real-world functionality.
-My background in industrial production has shaped a strong problem-solving mindset and a structured way of working.
+Welcome to my GitHub profile!
+I focus on building applications using the .NET ecosystem with clean structure and practical functionality.
+I enjoy solving real-world problems and continuously improving my development skills 🚀
 
-🚀 Tech Stack
+🚀 About Me
+🎓 System Development student focused on C# and .NET
+📍 Based in Sweden
+💡 Interested in building scalable and maintainable systems
+🔧 Strong problem-solving mindset from previous professional experience
+🎯 Goal: Become a highly skilled developer working with modern technologies
 
+
+🌱 Currently Learning
+💻 C# and .NET (ASP.NET Core, Web API)
+🗄️ Entity Framework Core & database design
+🧪 Testing (basics of unit testing)
+☁️ Exploring Docker & cloud concepts
+
+
+🛠️ Technologies & Tools
 💡 Backend
-C#, .NET 8, ASP.NET Core (Web API)
-
+C#, .NET 8, ASP.NET Core
 🗄️ Database
 SQL Server, EF Core
-
 🎨 Frontend
 React, HTML, CSS, Tailwind
+⚙️ Tools
+Git, GitHub, Postman, Docker
 
-🛠️ Tools & Workflow
-Git, GitHub, Docker, Postman
-
-🎯 What I Focus On
-
+🎯 Focus
 ✔️ Clean and maintainable code
 ✔️ Clear architecture (Services, Models, Data)
-✔️ Practical use of design patterns
-✔️ Building scalable and understandable systems
+✔️ Real-world projects over theory
+✔️ Continuous improvement
+
 
 📫 Contact
-
 🔗 GitHub: https://github.com/youabd123
+🔗 LinkedIn: https://www.linkedin.com/in/yousuf-hashim-062194388/
+🔗 E-mail: Yousuf.abdulrahman123@gmail.com
 
-🔗 LinkedIn: (add your link)
+⚡ Extra
 
-⚡ About Me
-
-I focus on building real projects to understand how systems work in practice — not just in theory.
-<!--
-**youabd123/youabd123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build projects to understand how systems work in practice — not just in theory.
