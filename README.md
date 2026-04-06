@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Yousuf  
+## 👋 Hello, I'm Yousuf Hashim
 
 💻 .NET Developer | C# | Web API | React  
 
