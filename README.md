@@ -84,17 +84,6 @@ I enjoy solving real-world problems and continuously improving my development sk
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Yousuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=youabd123&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youabd123&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Contact
 
